@@ -40,7 +40,7 @@ User Query
 GenAI_PM/
 ├── app.py                        # Streamlit UI (Phase 6)
 ├── requirements.txt
-├── .env.example                  # Copy to .env and fill in keys
+├── .env.example                 
 ├── .streamlit/config.toml        # UI theme
 │
 ├── src/
@@ -65,12 +65,12 @@ GenAI_PM/
 │       └── harness.py            # LLM-as-judge evaluation harness
 │
 └── data/
-    ├── sample_docs/              # Your PDF/TXT knowledge base
+    ├── sample_docs/              
     │   ├── q3_complaint_trends_report.txt
     │   ├── customer_support_policy.txt
     │   └── product_improvement_recommendations.txt
-    ├── faiss_index/              # Auto-created on first run
-    └── eval_results.csv          # Auto-created after evaluation
+    ├── faiss_index/              
+    └── eval_results.csv          
 ```
 
 ---
@@ -155,9 +155,6 @@ df = run_comparison_eval(retrieve, run_baseline=True)
 Run against two systems:
 - **Baseline**: single GPT-4o call, no RAG, no agents  
 - **Multi-Agent**: full LangGraph pipeline
-
-Expected resume line:  
-> *"Built a self-correcting multi-agent AI system using LangGraph with RAG, reducing hallucination rate by ~38% vs single-LLM baseline on a 30-query eval set, with full execution tracing via LangSmith."*
 
 ---
 
