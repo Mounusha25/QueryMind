@@ -1,0 +1,121 @@
+PRODUCT IMPROVEMENT RECOMMENDATIONS
+Q3 2025 Analysis — Engineering & Product Prioritisation Brief
+Prepared by: Customer Experience Analytics Team
+Date: October 10, 2025
+
+=======================================================
+OVERVIEW
+=======================================================
+
+This document synthesises Q3 complaint data, NPS feedback,
+and customer feature requests into prioritised product
+improvement recommendations for Q4 2025 and H1 2026.
+
+Total unique feature requests logged in Q3: 142
+Customer feedback responses analysed: 8,914
+Complaint-to-feature-request linkage coverage: 76%
+
+=======================================================
+TOP 3 PRODUCT IMPROVEMENTS REQUESTED BY CUSTOMERS
+=======================================================
+
+1. FASTER CHECKOUT EXPERIENCE
+   Requested by: 3,412 unique customers (38% of app complainants)
+   NPS impact potential: +14 points
+   Projected conversion rate impact: +8% to +12%
+   Effort estimate: 6-8 sprints (engineering)
+   Priority: P0
+
+2. IMPROVED MOBILE UI / UX
+   Requested by: 2,891 unique customers
+   Includes: intuitive navigation, responsive layouts,
+   accessibility improvements (WCAG 2.1 AA compliance)
+   Projected complaint reduction: ~35% of mobile category
+   Effort estimate: 4-6 sprints
+   Priority: P0
+
+3. TRANSPARENT BILLING & INVOICE CLARITY
+   Requested by: 2,577 unique customers
+   Includes: itemised invoices, real-time billing alerts,
+   clear subscription change confirmations
+   Projected billing complaint reduction: 40%
+   Effort estimate: 3-4 sprints
+   Priority: P1
+
+=======================================================
+HIGHEST ROI IMPROVEMENT
+=======================================================
+
+AUTOMATED BILLING RECONCILIATION
+  Description: Replace manual CSV-based reconciliation with
+  an automated pipeline that detects and resolves discrepancies
+  in real time before charges post.
+
+  Projected outcomes:
+    - 65% reduction in billing dispute volume
+    - $1.1M annual savings in complaint handling costs
+    - 18% reduction in overall support operational cost
+    - Estimated payback period: 4 months post-launch
+
+  This was identified as the single highest-ROI engineering
+  investment for Q4 2025.
+
+=======================================================
+ENGINEERING PRIORITISATION FOR Q4 2025
+  (To reduce complaint volume by ≥ 15%)
+=======================================================
+
+Rank  Area                          Complaint %  Effort    Impact
+  1   Automated billing reconcil.     28%         Medium    Very High
+  2   Mobile checkout redesign        24%         High      High
+  3   Shipping tracking integration   19%         Low       Medium-High
+
+Combined, these three initiatives address 71% of total complaint
+volume. Achieving even 50% reduction in each area yields a
+projected overall complaint reduction of ~35%, exceeding the 15%
+target by a significant margin.
+
+=======================================================
+ADDITIONAL RECOMMENDED INITIATIVES
+=======================================================
+
+4. LOGISTICS PARTNER SLA ENFORCEMENT
+   - Renegotiate carrier contracts to enforce 95% on-time rate
+   - Implement automated carrier performance dashboards
+   - Introduce secondary carrier routing for at-risk shipments
+   - Projected shipping complaint reduction: 40–50%
+
+5. SELF-SERVICE BILLING PORTAL
+   - Allow customers to view, dispute, and resolve billing issues
+     without contacting support
+   - Estimated deflection of 22% of all Tier 1 billing tickets
+   - Aligns with customer preference for self-service (58% prefer
+     self-service for billing inquiries per Q3 survey)
+
+6. ENTERPRISE ACCOUNT HEALTH DASHBOARD
+   - Dedicated dashboard for enterprise accounts showing usage,
+     billing history, open complaints, and SLA performance
+   - Addresses the disproportionate complaint rate from enterprise
+     segment (2.1 complaints per 100 orders vs 0.9 for consumers)
+
+=======================================================
+FEATURE REQUEST VOLUME BY CATEGORY
+=======================================================
+
+Category                    Requests    % of Total
+Billing & Payments            41          28.9%
+Mobile App                    35          24.6%
+Shipping & Tracking           22          15.5%
+Account Management            18          12.7%
+Search & Discovery            14           9.9%
+Reporting & Analytics          8           5.6%
+Other                          4           2.8%
+
+=======================================================
+NEXT STEPS
+=======================================================
+
+1. Exec sign-off on P0 items by October 17, 2025
+2. Engineering sprint planning for Q4 to begin October 21, 2025
+3. Customer advisory panel review of top 3 improvements: November 2025
+4. Quarterly review of complaint trends vs shipped improvements: January 2026

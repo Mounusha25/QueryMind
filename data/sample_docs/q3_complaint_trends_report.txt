@@ -1,0 +1,142 @@
+Q3 2025 CUSTOMER COMPLAINT TRENDS REPORT
+Enterprise Analytics Division
+Generated: September 30, 2025
+
+=======================================================
+EXECUTIVE SUMMARY
+=======================================================
+
+Total complaints received in Q3 2025: 14,782
+Year-over-year change: +14% (Q3 2024: 12,966)
+Quarter-over-quarter change: +6% (Q2 2025: 13,938)
+
+Overall Customer Satisfaction Score (CSAT): 3.8 out of 5
+Net Promoter Score (NPS): +22 (down from +31 in Q2)
+First-Contact Resolution (FCR) Rate: 54% (industry benchmark: 72%)
+Average Handle Time (Tier 1): 8.3 minutes
+
+=======================================================
+COMPLAINT VOLUME BY CATEGORY
+=======================================================
+
+1. Billing Disputes      : 4,139 complaints (28.0%)  — UP 22% vs Q2
+2. Mobile App Issues     : 3,614 complaints (24.4%)  — UP 18% vs Q2
+3. Shipping & Delivery   : 2,808 complaints (19.0%)  — UP  9% vs Q2
+4. Product Quality       : 1,627 complaints (11.0%)  — DOWN 3% vs Q2
+5. Account Access        :   887 complaints  (6.0%)  — UP  5% vs Q2
+6. Other / Miscellaneous : 1,707 complaints (11.5%)
+
+=======================================================
+COMPLAINT VOLUME BY CHANNEL
+=======================================================
+
+Email        : 43%
+In-App Chat  : 31%
+Phone        : 18%
+Social Media :  8%
+
+=======================================================
+COMPLAINT VOLUME BY REGION
+=======================================================
+
+North America : 38% (highest volume)
+Europe        : 29%
+Asia Pacific  : 21%
+Latin America : 12%
+
+=======================================================
+RESOLUTION METRICS
+=======================================================
+
+Resolved within 24 hours        : 67%
+Resolved within 5 business days : 89%
+Escalated to Tier 2             : 31%
+Escalated to management review  : 8%
+
+Average cost per complaint resolution: $42
+  (includes agent time, account credits, and refunds)
+
+=======================================================
+CUSTOMER SEGMENT BREAKDOWN
+=======================================================
+
+Enterprise accounts     : 2.1 complaints per 100 orders (highest rate)
+SMB accounts            : 1.4 complaints per 100 orders
+Consumer / individual   : 0.9 complaints per 100 orders
+
+Enterprise accounts represent 18% of complaint volume
+despite being only 7% of the customer base.
+
+=======================================================
+BILLING DISPUTES — DEEP DIVE
+=======================================================
+
+Root causes of billing disputes:
+  - Incorrect subscription charges       : 41%
+  - Double billing                        : 24%
+  - Disputed usage charges                : 19%
+  - Failed refund processing              : 16%
+
+Key finding: 72% of billing disputes stem from manual
+reconciliation errors in the legacy billing system.
+Automated billing reconciliation is projected to reduce
+billing complaint volume by 65% (projected saving: $1.1M/year).
+
+Churn risk: Customers with unresolved billing complaints are
+3x more likely to churn within 60 days compared to resolved cases.
+
+=======================================================
+MOBILE APP ISSUES — DEEP DIVE
+=======================================================
+
+Top reported mobile issues:
+  1. Checkout flow crashes / timeouts     : 38% of app complaints
+  2. Login / authentication failures     : 27%
+  3. Slow performance on older devices   : 21%
+  4. Missing order history pages         : 14%
+
+NPS for mobile app checkout flow: -12 (the lowest of any feature)
+Average session timeout rate during checkout: 19%
+
+Projected impact of checkout redesign:
+  - 8–12% increase in mobile conversion rate
+  - ~35% reduction in app-related complaints
+
+=======================================================
+SHIPPING & DELIVERY — DEEP DIVE
+=======================================================
+
+Most common root cause: Third-party logistics partner delays (58%)
+  Primary carrier on-time rate: 79% (SLA target: 95%)
+  Secondary carrier on-time rate: 91%
+
+Customer ask: Real-time shipment tracking updates (requested by 74%
+of shipping complainants).
+
+=======================================================
+SUPPORT TEAM COMPOSITION
+=======================================================
+
+Active support agents in Q3: 247
+  - Americas time zone : 118 agents
+  - EMEA time zone     : 82 agents
+  - APAC time zone     : 47 agents
+
+Agent attrition rate Q3: 12% (above target of 8%)
+Training completion rate for new agents: 94%
+
+=======================================================
+BENCHMARK COMPARISON
+=======================================================
+
+Metric                    Our Value    Industry Avg
+──────────────────────────────────────────────────
+CSAT Score                3.8          4.1  (gap: -0.3)
+NPS                       +22          +35  (gap: -13)
+FCR Rate                  54%          72%  (gap: -18pp)
+Avg Handle Time           8.3 min      7.1 min (gap: +1.2)
+24-hr Resolution Rate     67%          78%  (gap: -11pp)
+Complaint Rate per Order  1.2%         0.8% (gap: +0.4pp)
+
+Closing the FCR gap to industry benchmark is identified
+as the single highest-impact initiative for H1 2026.
